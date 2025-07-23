@@ -24,7 +24,7 @@
 
 ```javascript
 const developer = {
-    name: "Srikar",
+    name: "Kalam Venkateshwara Reddy",
     alias: "The Debugger of Kamehameha",
     role: "Full Stack Developer",
     currentForm: "Project Builder",
