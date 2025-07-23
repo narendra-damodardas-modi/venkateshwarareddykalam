@@ -1,9 +1,5 @@
 ## Hi 
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on how to make Nukes 
 - 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate on bombs and fighter jets
