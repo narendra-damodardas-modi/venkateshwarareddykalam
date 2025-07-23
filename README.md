@@ -7,4 +7,3 @@
 - 💬 Ask me about how to make Nukes
 - 📫 How to reach me: Make a issue on any of my repo
 - 😄 Pronouns: Attack / Helicopter
-- ⚡ Fun fact: I have only two legs and two hands
