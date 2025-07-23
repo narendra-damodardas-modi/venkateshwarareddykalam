@@ -146,13 +146,6 @@ const developer = {
 
 ---
 
-## 🐉 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-srikar&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
